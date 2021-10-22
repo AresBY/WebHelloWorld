@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+G+x9LrVCBJ00SGQ0eZgee+dGUdrlYQ25aWKMCp4b82myonVVRTlct99HvAJmBHEKNVA9pxShV2QzEEdRXjo+Q==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\ProjectsC#\\WebHelloWorld\\WebHelloWorld\\WebHelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Academic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
